@@ -13,9 +13,9 @@ A DIY laser-based security system that detects unauthorized entry using a laser 
 
 ### 👥 Team Members
 
-- Istiak Alam (ID: 0692230005101005)
-- Sazzad Jelani (ID: 0692220005101003)
-- Nafisa Tabassum (ID: 0692220005101008)
+- [Istiak Alam](https://github.com/Istiaq-Alam) (ID: 0692230005101005)
+- [Sazzad Jelani](https://github.com/Saz-Jelani) (ID: 0692220005101003)
+- [Nafisa Tabassum](https://github.com/NafisaTabassumNeha) (ID: 0692220005101008)
 - Sadia Islam Mim (ID: 0692220005101010)
 
 ---
