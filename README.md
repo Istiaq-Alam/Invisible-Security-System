@@ -146,7 +146,7 @@ To build a low-cost, efficient, and remotely controlled laser-based intrusion de
 
 ## 📸 Screenshots (Optional in README)
 
-> You can add images like:
+> Image will include later:
 > ```
 > ![Front View](images/front_view.jpg)
 > ![Circuit Diagram](images/circuit.jpg)
